@@ -1,0 +1,24 @@
+{
+  "name": "hexo-friendly-link",
+  "version": "0.1.0",
+  "description": "Automatically generate friendly permalink for Hexo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/houyonglu/hexo-friendly-link.git"
+  },
+  "keywords": [
+    "hexo",
+    "hexo-plugin",
+    "hexo-friendly-link"
+  ],
+  "author": "Houyonglu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/houyonglu/hexo-friendly-link/issues"
+  },
+  "homepage": "https://github.com/houyonglu/hexo-friendly-link#readme"
+}
